@@ -6,7 +6,7 @@ Streamlit app showcasing demand over time of some skills at <a href="https://t.m
 Go <a href="https://my.telegram.org">https://my.telegram.org</a>, get an `API_ID` and `API_HASH` and write them to `secrets.json`.
 
 Install requirements with:<br>
-- `pip install -r requirements.txt`
+- `pip install -r requirements.txt`<br>
 Then run the app with:<br>
 - `streamlit run app.py`
 
