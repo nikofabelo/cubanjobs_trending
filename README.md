@@ -3,7 +3,7 @@
 Streamlit app showcasing demand over time of some skills at <a href="https://t.me/cubanjobs">cubanjobs</a>.
 
 ## How to use?
-Go <a href="https://my.telegram.org"/>, get an `API_ID` and `API_HASH` and write them to `secrets.json`.
+Go <a href="https://my.telegram.org">https://my.telegram.org</a>, get an `API_ID` and `API_HASH` and write them to `secrets.json`.
 
 Install requirements with:<br>
 - `pip install -r requirements.txt`
