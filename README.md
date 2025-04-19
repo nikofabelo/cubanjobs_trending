@@ -8,6 +8,7 @@ Add them to `secrets.json`.
 
 Install requirements with:<br>
 - `pip install -r requirements.txt`
+
 Then run the app with:<br>
 - `streamlit run app.py`
 
